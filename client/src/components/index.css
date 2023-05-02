@@ -1,0 +1,18 @@
+.bg{
+    /* background-image: url("https://i.gifer.com/Ve9W.gif"); */
+    background-color: #5c73e6;
+    height:100vh
+}
+.bg1{
+    background-color: #5c73e6;
+}
+
+input{
+    margin: 20px;
+    width:30%;
+    height: 40px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 450;
+}
